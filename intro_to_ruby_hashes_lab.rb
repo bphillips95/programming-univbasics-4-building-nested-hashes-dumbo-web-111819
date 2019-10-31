@@ -23,7 +23,7 @@ def monopoly_with_third_tier
     cities = {:railroads => {
     :pieces => 4,
       :rent_in_dollars => {
-        :park_ave => {},
+        :four_pieces_owned => 200,
         :three_pieces_owned => 100,
         :two_pieces_owned => 50,
         :one_piece_owned => 25
