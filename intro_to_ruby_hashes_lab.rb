@@ -28,7 +28,12 @@ def monopoly_with_third_tier
         :kingston_ave => {},
         :chandler_st => {}
       },
-      :names => {}
+      :names => {
+        :josh => {},
+        :max => {}, 
+        :alex => {},
+        :sam => {}
+      }
   }
   }
 end
