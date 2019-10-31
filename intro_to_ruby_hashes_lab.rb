@@ -25,7 +25,7 @@ def monopoly_with_third_tier
       :rent_in_dollars => {
         :park_ave => {},
         :main_st => {},
-        :kingston_ave => {},
+        :two_pieces_owned => 50,
         :one_piece_owned => 25
       },
       :names => {
