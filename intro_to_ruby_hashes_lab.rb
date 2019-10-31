@@ -12,6 +12,7 @@ def monopoly_with_second_tier
   cities = {:railroads => {
     :pieces => {}
    }
+  }
 end
 
 def monopoly_with_third_tier
