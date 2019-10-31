@@ -29,7 +29,7 @@ def monopoly_with_third_tier
         :one_piece_owned => 25
       },
       :names => {
-        :josh => {},
+        :reading_railroad => {},
         :max => {}, 
         :alex => {},
         :sam => {}
