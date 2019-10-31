@@ -26,7 +26,7 @@ def monopoly_with_third_tier
         :park_ave => {},
         :main_st => {},
         :kingston_ave => {},
-        :chandler_st => {}
+        :one_piece_owned => 25
       },
       :names => {
         :josh => {},
